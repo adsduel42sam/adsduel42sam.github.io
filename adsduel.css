@@ -30,6 +30,10 @@
   right:10px;
   cursor:pointer;
   }
+#welcome-section{
+  position: center;
+  display:flex;
+}
   div{
   width:100%;
   height:20%;
